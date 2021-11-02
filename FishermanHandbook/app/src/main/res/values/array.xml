@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fish">
+        <item>Cом</item>
+        <item>Налим</item>
+        <item>Щука</item>
+        <item>Карась</item>
+    </string-array>
+    <string-array name="fish_content">
+        <item>Cом - охуенная рыба, ничего про нее не знаю, кроме ее усов</item>
+        <item>Налим - вообще блядь, кто этим интересуется?</item>
+        <item>Щука - издневне всем известная рыба, пиздаче ее в России не водеться</item>
+        <item>Карась - дефолтная рыба, которую все кушают в RUSSIAN FEDERASSIAN</item>
+    </string-array>
+    <array name="fish_image_array">
+        <item>@drawable/som</item>
+        <item>@drawable/nalim</item>
+        <item>@drawable/shuca</item>
+        <item>@drawable/caras</item>
+    </array>
+
+    <string-array name="na">
+        <item>Наживка для НАЛИМА</item>
+        <item>Наживка для СОМА</item>
+        <item>Наживка для КАРАСЯ</item>
+        <item>Наживка для ЩУКИ</item>
+    </string-array>
+    <string-array name="na_content">
+        <item>Зачерпни крючок поглубже, чтобы вытянуть съедобный прикольчик</item>
+        <item>Необходима специальная усовая наживка для усцов сомов, чтобы подцеплять их и тянуть в атмосферу</item>
+        <item>Самая изи наживка из всех, тюпо ставишь таз нахуй и он сам прыгает в него довольный</item>
+        <item>Здесь пригодится хитрая наживка, помимо таза еще нужна удочка, на нее мы зацепляем большую сеть и вылавливаем обитателей наших вод
+        по схеме "сведение сетью"(смысл способа в том, чтобы после опускания сети в воду быстро понятунь вверх
+            в то время, как щука будет находится в области действия сети)</item>
+    </string-array>
+    <array name="na_image_array">
+        <item>@drawable/nalim</item>
+        <item>@drawable/som</item>
+        <item>@drawable/caras</item>
+        <item>@drawable/shuca</item>
+    </array>
+</resources>
